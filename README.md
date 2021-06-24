@@ -1,10 +1,5 @@
 <h1 align="center">Hi there, I'm Armin Shoeibi 👋</h1>
 
-<p align="center"> 
- <strong>
-  Professional skills
-  </strong>
-</p>
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
